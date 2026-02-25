@@ -3,7 +3,7 @@
 <head>
 <style>
 table, th, td {
-  border: 1px solid green;
+  border: 1px solid pink;
 }
 </style>
 </head>
@@ -13,18 +13,20 @@ table, th, td {
 
 <table>
   <tr>
-    <th>nombre</th>
-    <th>apellido</th>
+    <th>Firstname</th>
+    <th>Lastname</th>
   </tr>
   <tr>
-    <td>lizeth</td>
+    <td>Lizeth</td>
     <td>jimenez</td>
   </tr>
   <tr>
     <td>Lois</td>
-    <td>perez</td>
+    <td>Griffin</td>
   </tr>
 </table>
 
 </body>
 </html>
+
+

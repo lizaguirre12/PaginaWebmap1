@@ -17,12 +17,12 @@ table, th, td {
     <th>apellido</th>
   </tr>
   <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
+    <td>Lizeth</td>
+    <td>Jimenez</td>
   </tr>
   <tr>
     <td>Lois</td>
-    <td>Griffin</td>
+    <td>lopez</td>
   </tr>
 </table>
 
